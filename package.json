@@ -10,7 +10,11 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "4.1.16",
-    "astro": "5.15.3",
-    "tailwindcss": "4.1.16"
+    "astro": "5.16.2",
+    "tailwindcss": "4.1.16",
+    "three": "0.181.2"
+  },
+  "devDependencies": {
+    "@types/three": "0.181.0"
   }
 }
