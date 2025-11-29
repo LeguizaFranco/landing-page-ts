@@ -1,6 +1,6 @@
 🌐 TANDIL SOLUTION — Landing Page
 
-Bienvenido al repositorio de la landing page oficial de Tandil Solution, una consultora digital enfocada en brindar soluciones tecnológicas modernas y eficientes para PyMEs, ayudándolas a digitalizar procesos, optimizar su presencia online y potenciar su crecimiento.
+Bienvenido al repositorio de la landing page oficial de Tandil Solution, una consultora digital enfocada en brindar soluciones tecnológicas modernas y eficientes para PyMEs, ayudando a digitalizar procesos, optimizar la presencia online y potenciar el crecimiento empresarial.
 
 🔗 Enlace al sitio
 
@@ -34,22 +34,20 @@ El sitio también presenta al equipo, casos de éxito, un formulario de contacto
 
 🚀 Características destacadas
 
-🧊 Hero con escena 3D interactiva (Three.js) + fallback estático para rendimiento máximo.
+🧊 Hero con escena 3D interactiva (Three.js) + fallback estático para máximo rendimiento.
 
 📚 Secciones completas:
-Hero → Servicios → Casos → Proceso → Testimonios → Equipo → Contacto.
+Hero → Servicios → Casos → Proceso → Testimonios → Equipo → Contacto
 
-✉️ Formulario de contacto con validación e integraciones posibles (Netlify Functions).
+✉️ Formulario de contacto con validación e integraciones (Netlify Functions).
 
 🔍 SEO sólido: meta tags, Open Graph, sitemap.xml, robots.txt generados.
 
-♿ Accesible y responsive: navegación por teclado, etiquetas correctas, uso de aria-* y contrastes adecuados.
+♿ Accesible y responsive: navegación por teclado, etiquetas correctas, uso de aria-*, contrastes adecuados.
 
 🖼️ Imágenes optimizadas (WebP/AVIF), lazy-loading y build eficiente gracias a Astro.
 
 📱 Redes sociales
-
-Agrega aquí tus redes:
 
 🔗 LinkedIn: https://www.linkedin.com/in/tandilsolution/
 
