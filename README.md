@@ -1,46 +1,56 @@
-# Astro Starter Kit: Basics
+🌐 TANDIL SOLUTION — Landing Page
 
-```sh
-npm create astro@latest -- --template basics
-```
+Bienvenido al repositorio de la landing page oficial de Tandil Solution, una consultora digital enfocada en brindar soluciones tecnológicas modernas y eficientes para PyMEs, ayudándolas a digitalizar procesos, optimizar su presencia online y potenciar su crecimiento.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+🔗 Enlace al sitio
 
-## 🚀 Project Structure
+👉 https://tandilsolution.netlify.app/
 
-Inside of your Astro project, you'll see the following folders and files:
+🧭 Resumen del proyecto
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src
-│   ├── assets
-│   │   └── astro.svg
-│   ├── components
-│   │   └── Welcome.astro
-│   ├── layouts
-│   │   └── Layout.astro
-│   └── pages
-│       └── index.astro
-└── package.json
-```
+La landing page de Tandil Solution es una web estática/SSG diseñada para comunicar claramente los servicios digitales que ofrecemos a pequeñas y medianas empresas: desarrollo web, automatizaciones, presencia digital, análisis, branding y más.
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+El sitio también presenta al equipo, casos de éxito, un formulario de contacto y una experiencia visual tecnológica con elementos en 3D.
 
-## 🧞 Commands
+🎯 Objetivos principales
 
-All commands are run from the root of the project, from a terminal:
+⭐ Presentación profesional y moderna orientada a PyMEs
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+🧭 Explicar servicios y procesos de forma clara y directa
 
-## 👀 Want to learn more?
+🎞️ Interacciones fluidas y animaciones suaves
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+⚡ Alta performance y SEO optimizado
+
+🛠️ Arquitectura simple de mantener y fácil de desplegar
+
+🧩 Tecnologías principales
+
+🚀 Astro – estructura y generación estática
+
+🎨 Tailwind CSS – estilos utilitarios
+
+🧊 Three.js – visualizaciones 3D / hero interactivo
+
+🚀 Características destacadas
+
+🧊 Hero con escena 3D interactiva (Three.js) + fallback estático para rendimiento máximo.
+
+📚 Secciones completas:
+Hero → Servicios → Casos → Proceso → Testimonios → Equipo → Contacto.
+
+✉️ Formulario de contacto con validación e integraciones posibles (Netlify Functions).
+
+🔍 SEO sólido: meta tags, Open Graph, sitemap.xml, robots.txt generados.
+
+♿ Accesible y responsive: navegación por teclado, etiquetas correctas, uso de aria-* y contrastes adecuados.
+
+🖼️ Imágenes optimizadas (WebP/AVIF), lazy-loading y build eficiente gracias a Astro.
+
+📱 Redes sociales
+
+Agrega aquí tus redes:
+
+🔗 LinkedIn: https://www.linkedin.com/in/tandilsolution/
+
+📸 Instagram: https://www.instagram.com/tandil.solution/?hl=es-la
