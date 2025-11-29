@@ -44,32 +44,3 @@
         </div>
     </nav>
 </header>
-
-<!-- <script>
-    // FIX: Envolvemos todo en window.onload para asegurarnos que 'lucide' esté definido
-    // antes de intentar usarlo.
-    window.onload = () => {
-        // Lógica del menú móvil
-        const menuBtn = document.getElementById("menu-btn");
-        const mobileMenu = document.getElementById("mobile-menu");
-
-        menuBtn!.addEventListener("click", () => {
-            mobileMenu!.classList.toggle("hidden");
-
-            // Cambiar el texto del botón
-            if (mobileMenu!.classList.contains("hidden")) {
-                menuBtn!.textContent = "Menú";
-            } else {
-                menuBtn!.textContent = "Cerrar";
-            }
-        });
-
-        // Opcional: Cerrar menú al hacer clic en un enlace
-        mobileMenu!.querySelectorAll("a").forEach((link) => {
-            link.addEventListener("click", () => {
-                mobileMenu!.classList.add("hidden");
-                menuBtn!.textContent = "Menú";
-            });
-        });
-    };
-</script> -->
