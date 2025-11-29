@@ -6,7 +6,7 @@ Bienvenido al repositorio de la landing page oficial de Tandil Solution, una con
 
 🔗 Enlace al sitio
 
-👉 [landing page] (https://tandilsolution.netlify.app/)
+👉 [landing page](https://tandilsolution.netlify.app/)
 
 ---
 
@@ -57,7 +57,7 @@ Hero → Servicios → Casos → Proceso → Testimonios → Equipo → Contacto
 
 ## 📱 Redes sociales
 
-🔗 LinkedIn: [linkedIn] (https://www.linkedin.com/in/tandilsolution/)
+🔗 LinkedIn: [linkedIn](https://www.linkedin.com/in/tandilsolution/)
 
 📸 Instagram: [@tandilsolution](https://www.instagram.com/tandil.solution/?hl=es-la)
 
