@@ -2,9 +2,13 @@
 
 Bienvenido al repositorio de la landing page oficial de Tandil Solution, una consultora digital enfocada en brindar soluciones tecnológicas modernas y eficientes para PyMEs, ayudando a digitalizar procesos, optimizar la presencia online y potenciar el crecimiento empresarial.
 
+---
+
 🔗 Enlace al sitio
 
-👉 https://tandilsolution.netlify.app/
+👉 [landing page] (https://tandilsolution.netlify.app/)
+
+---
 
 ## 🧭 Resumen del proyecto
 
@@ -32,6 +36,8 @@ El sitio también presenta al equipo, casos de éxito, un formulario de contacto
 
 🧊 Three.js – visualizaciones 3D / hero interactivo
 
+---
+
 ## 🚀 Características destacadas
 
 🧊 Hero con escena 3D interactiva (Three.js) + fallback estático para máximo rendimiento.
@@ -47,8 +53,12 @@ Hero → Servicios → Casos → Proceso → Testimonios → Equipo → Contacto
 
 🖼️ Imágenes optimizadas (WebP/AVIF), lazy-loading y build eficiente gracias a Astro.
 
+---
+
 ## 📱 Redes sociales
 
-🔗 LinkedIn: https://www.linkedin.com/in/tandilsolution/
+🔗 LinkedIn: [linkedIn] (https://www.linkedin.com/in/tandilsolution/)
 
-📸 Instagram: https://www.instagram.com/tandil.solution/?hl=es-la
+📸 Instagram: [@tandilsolution](https://www.instagram.com/tandil.solution/?hl=es-la)
+
+**Email:** [correo electrónico](mailto:hellotandilsolution@gmail.com)
